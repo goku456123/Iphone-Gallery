@@ -5,7 +5,7 @@ const iphones = [
         display: "3.5 inch",
         processor: "412 MHz ARM 11",
         battery: "1400 mAh",
-        image: "images/iphone1.jpg"
+        image: "iphone1.jpg"
     },
     {
         name: "IPhone 3G",
@@ -13,7 +13,7 @@ const iphones = [
         display: "3.5 inch",
         processor: "412 MHz ARM 11",
         battery: "1220 mAh",
-        image: "images/iphone3g.jpg"
+        image: "iphone3g.jpg"
     },
     {
         name: "IPhone 4",
@@ -21,7 +21,7 @@ const iphones = [
         display: "3.5 inch",
         processor: "1 GHz Cortex-A8",
         battery: "1420 mAh",
-        image: "images/iphone4.jpg"
+        image: "iphone4.jpg"
     },
     {
         name: "IPhone 5",
@@ -29,7 +29,7 @@ const iphones = [
         display: "4 inch",
         processor: "1.3 GHz Dual-Core Swift",
         battery: "1440 mAh",
-        image: "images/iphone5.jpg"
+        image: "iphone5.jpg"
     },
     {
         name: "IPhone 6",
@@ -37,7 +37,7 @@ const iphones = [
         display: "4.7 inch",
         processor: "1.4 GHz Dual-Core Cyclone",
         battery: "1810 mAh",
-        image: "images/iphone6.jpg"
+        image: "iphone6.jpg"
     },
     {
         name: "IPhone 7",
@@ -45,7 +45,7 @@ const iphones = [
         display: "4.7 inch",
         processor: "2.34 GHz Quad-Core Fusion",
         battery: "1960 mAh",
-        image: "images/iphone7.jpg"
+        image: "iphone7.jpg"
     },
     {
         name: "IPhone 8",
@@ -53,7 +53,7 @@ const iphones = [
         display: "4.7 inch",
         processor: "2.39 GHz Hexa-Core Fusion",
         battery: "1821 mAh",
-        image: "images/iphone8.jpg"
+        image: "iphone8.jpg"
     },
     {
         name: "IPhone X",
@@ -61,7 +61,7 @@ const iphones = [
         display: "5.8 inch OLED",
         processor: "2.39 GHz Hexa-Core Fusion",
         battery: "2716 mAh",
-        image: "images/iphonex.jpg"
+        image: "iphonex.jpg"
     },
     {
         name: "IPhone 11",
@@ -69,7 +69,7 @@ const iphones = [
         display: "6.1 inch Liquid Retina",
         processor: "2.65 GHz Hexa-Core Fusion",
         battery: "3110 mAh",
-        image: "images/iphone11.jpg"
+        image: "iphone11.jpg"
     },
     {
         name: "IPhone 12",
@@ -77,7 +77,7 @@ const iphones = [
         display: "6.1 inch Super Retina XDR",
         processor: "3.1 GHz Hexa-Core Fusion",
         battery: "2815 mAh",
-        image: "images/iphone12.jpg"
+        image: "iphone12.jpg"
     },
     {
         name: "IPhone 13",
@@ -85,7 +85,7 @@ const iphones = [
         display: "6.1 inch Super Retina XDR",
         processor: "3.1 GHz Hexa-Core Fusion",
         battery: "3240 mAh",
-        image: "images/iphone13.jpg"
+        image: "iphone13.jpg"
     },
     {
         name: "IPhone 14",
@@ -93,7 +93,7 @@ const iphones = [
         display: "6.1 inch Super Retina XDR",
         processor: "3.2 GHz Hexa-Core Fusion",
         battery: "3279 mAh",
-        image: "images/iphone14.jpg"
+        image: "iphone14.jpg"
     },
     {
         name: "IPhone 15",
@@ -101,7 +101,7 @@ const iphones = [
         display: "6.1 inch Super Retina XDR",
         processor: "3.46 GHz Hexa-Core Fusion",
         battery: "3500 mAh",
-        image: "images/iphone15.jpg"
+        image: "iphone15.jpg"
     },
 ];
 
